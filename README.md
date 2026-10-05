@@ -1,7 +1,19 @@
-## Hi there 👋
+### Hi there 👋 I'm Ramya Bharathi!
+🎓 B.Tech CSE Student from Nagapattinam
+💻 Aspiring Software Developer
+🌱 Currently learning Python & Java
+✨ Passionate about building tech solutions
 
-<!--
-**ramya-bharathi2007/ramya-bharathi2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
+- Languages: Python, Java, C
+- Tools: Git, GitHub, VS Code
+- Interests: Web Development, Problem Solving
+
+### 📫 Connect with me
+- 📧 ramyabharathig7@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ramya-bharathi-4532b2408)
+
+> "Learning today, Leading tomorrow 🚀"n your GitHub profile.
 
 Here are some ideas to get you started:
 
